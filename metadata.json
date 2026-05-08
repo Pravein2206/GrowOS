@@ -1,0 +1,6 @@
+{
+  "name": "GrowOS",
+  "description": "Precision urban agriculture mobile dashboard for vertical hydroponic mapping and IoT microclimate control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
