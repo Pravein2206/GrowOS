@@ -1,16 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+GrowOS is a web-based application built using React + Vite that simulates or manages an AI-assisted vertical farming system. It is designed to help users monitor, manage, and optimize smart farming processes such as plant growth, environmental conditions, and system automation.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/fc35b1f4-fdfc-4d7c-b77c-3029c5e068c9
+This project is intended for learning purposes and demonstrates modern frontend development practices with API integration
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** 
+Before running this project, make sure you have the following installed:
+
+Node.js (LTS version recommended)
+npm (comes with Node.js)
+A code editor (e.g. VS Code)
+Basic knowledge of terminal/command line
 
 
 1. Install dependencies:
